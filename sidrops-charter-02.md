@@ -56,16 +56,6 @@ Group may provide input to that group, as needed, and cooperate with
 that group in reviewing solutions to SIDR operational and deployment
 problems.
 
-Future work items within this scope will be adopted by the Working
-Group if there is a substantial expression of interest from
-the community and if the work (for example protocol maintenance)
-clearly does not fit elsewhere in the IETF.
-
-There must be a continuous expression of interest for the Working
-Group to work on a particular work item. If there is no longer
-sufficient interest in the Working Group in a work item, the item
-may be removed from the list of Working Group items.
-
 ## Milestones
 
 | Date | Milestone |
