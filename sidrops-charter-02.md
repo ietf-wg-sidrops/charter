@@ -49,7 +49,7 @@ interactions with non-SIDR-aware networks, the interfaces between SIDR-
 aware and non-SIDR-aware networks, and the continued operational/
 security impacts from non-SIDR-aware networks.
 
-BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPSEC operational and deployment problems.
+BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPSEC operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 Future work items within this scope will be adopted by the Working
 Group if there is a substantial expression of interest from
