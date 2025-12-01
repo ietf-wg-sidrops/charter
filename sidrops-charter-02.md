@@ -1,7 +1,7 @@
 ## SIDROps Charter
 
 The global deployment of SIDR, consisting of Resource Public Key Infrastructure (RPKI), Origin Validation of
-BGP announcements, and BGPSEC, is underway, creating an Internet
+BGP announcements, and BGPsec, is still underway, creating an Internet
 Routing System consisting of SIDR-aware and non-SIDR-aware networks.
 This deployment must be properly handled to avoid the division of
 the Internet into separate networks.  SIDR Operations Working Group (SIDROPS) is responsible for
@@ -35,7 +35,9 @@ The goals of SIDROPS are to:
 
 * Develop operational solutions for identified issues in SIDROPS and document them in Standard Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
-* Document SIDR operational experience, including interactions with non-SIDR-aware networks, the interfaces between SIDR-aware and non-SIDR-aware networks, and the continued operational/security impacts from non-SIDR-aware networks.
+* Document SIDR operational experience, including interactions with non-SIDR-aware networks, the interfaces between SIDR-aware and non-SIDR-aware networks, and the continued operational/security impacts from non-SIDR-aware networks. These documents will be published as Informational or BCPs.
+
+* Document common SIDROPS terminology as Informational RFC.
 
 SIDR operational and deployment issues with Interdomain Routing
 Protocols as well as BGPSEC maintenance and extension are the
