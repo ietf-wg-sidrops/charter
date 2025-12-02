@@ -37,6 +37,9 @@ The goals of SIDROPS are to:
 
 * Document common SIDROPS terminology as Informational RFC.
 
+Given the importance of routing security to the overall stability of the Internet, the Working Group will not submit protocol specifications for publication to the	IESG before demonstrating at least two interoperable implementations.
+See RFC 5657 (part of BCP 9) for guidance on what implementation reports should contain and BCP 205 for guidance on how to raise awareness of running code.
+
 BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPSEC operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 ## Milestones
