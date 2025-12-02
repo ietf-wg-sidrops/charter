@@ -4,13 +4,12 @@ The global deployment of SIDR, consisting of Resource Public Key Infrastructure 
 BGP announcements, and BGPsec, is still underway, creating an Internet
 Routing System consisting of SIDR-aware and non-SIDR-aware networks.
 This deployment must be properly handled to avoid the division of
-the Internet into separate networks.  SIDR Operations Working Group (SIDROPS) is responsible for
-encouraging deployment of the SIDR technologies while ensuring as secure
-of a global routing system, as possible, during the transition.
+the Internet into separate networks.  
+SIDR Operations Working Group (SIDROPS) is responsible for continuing the development of SIDR Technology, encouraging its deployment, while ensuring as secure of a global routing system, as possible, during the transition.
 
 The SIDROPS WG is focused on deployment and operational
 issues, their mitigations, and experiences  with SIDR technologies that are part of the
-global routing system, as well as the repositories and CA systems that
+global routing system, as well as the repositories and Certificate Authority systems that
 form part of the SIDR architecture.
 
 SIDROPS develops guidelines for
@@ -31,7 +30,7 @@ The goals of SIDROPS are to:
 
 * Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to determine solutions or workarounds to those issues.
 
-* Standardize YANG data models related to the SIDR operations.
+* Standardize management solution (e.g., YANG data models) related to the SIDR operations.
 
 * Develop operational solutions for identified issues in SIDROPS and document them in Standard Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
@@ -46,8 +45,8 @@ BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provi
 
 | Date | Milestone |
 | --- | --- | 
-| Nov 2025 | Submit draft-ietf-sidrops-8210bis to the IESG for publication|
-| Nov 2025 | Submit draft-ietf-sidrops-aspa-profile to the IESG for publication|
+| Mar 2026 | Submit draft-ietf-sidrops-8210bis to the IESG for publication|
+| Mar 2026 | Submit draft-ietf-sidrops-aspa-profile to the IESG for publication|
 | Mar 2026 | Submit draft-ietf-sidrops-aspa-verification to the IESG for publication|
-| Mar 2026 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
-| Mar 2026 | Submit draft-ietf-sidrops-aspa-slurm to the IESG for publication|
+| Jul 2026 | Submit draft-ietf-sidrops-aspa-notation to the IESG for publication|
+| Jul 2026 | Submit draft-ietf-sidrops-aspa-slurm to the IESG for publication|
