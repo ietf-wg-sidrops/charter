@@ -49,12 +49,7 @@ interactions with non-SIDR-aware networks, the interfaces between SIDR-
 aware and non-SIDR-aware networks, and the continued operational/
 security impacts from non-SIDR-aware networks.
 
-SIDR operational and deployment issues with Interdomain Routing
-Protocols as well as BGPSEC maintenance and extension are the
-primary responsibility of the IDR working group. The sidrops Working
-Group may provide input to that group, as needed, and cooperate with
-that group in reviewing solutions to SIDR operational and deployment
-problems.
+BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPSEC operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 ## Milestones
 
