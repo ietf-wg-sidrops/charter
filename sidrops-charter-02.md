@@ -27,34 +27,17 @@ or insight that this working group will consider in its work.
 
 The goals of SIDROPS are to:
 
-* Solicit input from a range of operators to identify operational issues with a SIDR-aware Internet, and specify solutions or workarounds to those issues.
+* Solicit input from a range of operators to identify operational issues with a SIDR-aware Internet, and determine solutions or workarounds to those issues.
 
-* Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to specify solutions or workarounds to those issues.
+* Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to determine solutions or workarounds to those issues.
 
-* Standardize manageability (e.g., YANG data models) and OAM solutions related to SIDR operations.
+* Standardize YANG data models related to the SIDR operations.
 
 * Develop operational solutions for identified issues in SIDROPS and document them in Standard Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
-* Document SIDR operational experience, including interactions with non-SIDR-aware networks, the interfaces between SIDR-aware and non-SIDR-aware networks, and the continued operational/security impacts from non-SIDR-aware networks. These documents will be published as Informational or BCPs.
-
 * Document common SIDROPS terminology as Informational RFC.
 
-SIDR operational and deployment issues with Interdomain Routing
-Protocols as well as BGPSEC maintenance and extension are the
-primary responsibility of the IDR working group. The sidrops Working
-Group may provide input to that group, as needed, and cooperate with
-that group in reviewing solutions to SIDR operational and deployment
-problems.
-
-Future work items within this scope will be adopted by the Working
-Group if there is a substantial expression of interest from
-the community and if the work (for example protocol maintenance)
-clearly does not fit elsewhere in the IETF.
-
-There must be a continuous expression of interest for the Working
-Group to work on a particular work item. If there is no longer
-sufficient interest in the Working Group in a work item, the item
-may be removed from the list of Working Group items.
+BGPSEC (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPSEC operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 ## Milestones
 
