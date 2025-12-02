@@ -5,11 +5,11 @@ BGP announcements, and BGPsec, is still underway, creating an Internet
 Routing System consisting of SIDR-aware and non-SIDR-aware networks.
 This deployment must be properly handled to avoid the division of
 the Internet into separate networks.  
-SIDR Operations Working Group (SIDROPS) is responsible for continuing the development of SIDR Technology, encouraging its deployment, while ensuring as secure of a global routing system, as possible, during the transition.
+SIDR Operations Working Group (SIDROPS) is responsible for continuing the development of SIDR technology, encouraging its deployment, while ensuring as secure of a global routing system as possible, during the transition.
 
 The SIDROPS WG is focused on deployment and operational
 issues, their mitigations, and experiences  with SIDR technologies that are part of the
-global routing system, as well as the repositories and Certificate Authority systems that
+global routing system, as well as the repositories and Certification Authority systems that
 form part of the SIDR architecture.
 
 SIDROPS develops guidelines for
