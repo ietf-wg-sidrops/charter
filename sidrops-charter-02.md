@@ -30,7 +30,7 @@ The goals of SIDROPS are to:
 
 * Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to determine solutions or workarounds to those issues.
 
-* Standardize management solution (e.g., YANG data models) related to the SIDR operations.
+* Standardize manageability (e.g., YANG data models) and OAM solutions related to SIDR operations.
 
 * Develop operational solutions for identified issues in SIDROPS and document them in Standard Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
