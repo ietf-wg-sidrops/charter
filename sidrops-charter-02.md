@@ -22,9 +22,9 @@ In the space of SIDROPS, the term operators will encompass a range
 of operational experience: CA Operators, Regional/National and Local
 Internet Registries, Relying Party software developers as well as the
 research/measurement community all have relevant operational experience
-or insight that this working group will consider in its work.
+or insight that SIDROPS will consider in its work.
 
-The goals of SIDROPS are to:
+The goals of SIDROPS WG are to:
 
 * Solicit input from a range of operators to identify operational issues with a SIDR-aware Internet, and determine solutions to those issues.
 
