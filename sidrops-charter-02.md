@@ -27,22 +27,15 @@ issues and experiences with SIDR technologies that are part of the
 global routing system, as well as the repositories and CA systems that
 form part of the SIDR architecture.
 
-The goals of the sidrops working group are to:
+The goals of SIDROPS are to:
 
-Solicit input from a range of operators to identify operational
-issues with a SIDR-aware Internet, and determine solutions or
-workarounds to those issues.
+* Solicit input from a range of operators to identify operational issues with a SIDR-aware Internet, and determine solutions or workarounds to those issues.
 
-Solicit input from all operators to identify
-issues with interaction with the non-SIDR-aware Internet,
-and to determine solutions or workarounds to those issues.
+* Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to determine solutions or workarounds to those issues.
 
-Standardize YANG data models related to the SIDR operations.
+* Standardize YANG data models related to the SIDR operations.
 
-Develop operational solutions for identified issues in sidrops and
-document them in standard track, informational, or BCP documents, 
-depending on the type of solution (e.g. new extensions vs 
-operational/deployment recommendations).
+* Develop operational solutions for identified issues in SIDROPS and document them in Standard Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
 These documents should document SIDR operational experience, including
 interactions with non-SIDR-aware networks, the interfaces between SIDR-
