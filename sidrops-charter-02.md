@@ -12,10 +12,9 @@ issues, their mitigations, and experiences  with SIDR technologies that are part
 global routing system, as well as the repositories and Certification Authority (CA) systems that
 form part of the SIDR architecture.
 
-SIDROPS develops guidelines for
-the operation of SIDR-aware networks and provides operational guidance
+SIDROPS develops guidelines for the operation of SIDR-aware networks and provides operational guidance
 on how to deploy and operate SIDR technologies in existing and new
-networks. It also develops protocol and protocols extensions to improve operational efficiency and security of SIDR such as Autonomous System Provider Authorization (ASPA) and reliable cache synchronization mechanims. The WG is also
+networks. It also develops protocols and protocol extensions to improve operational efficiency and security of SIDR such as Autonomous System Provider Authorization (ASPA) and reliable cache synchronization mechanims. The WG is also
 responsible for the maintenance of RPKI to Router protocol.
 
 In the space of SIDROPS, the term operators will encompass a range
