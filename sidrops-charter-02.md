@@ -10,19 +10,17 @@ In the space of SIDROPS, the term operators will encompass a range of operationa
 
 The goals of SIDROPS WG are to:
 
-* Solicit input from a range of operators to identify operational issues with a SIDR-aware Internet, and determine solutions to those issues.
+* Solicit input from operators to identify operational issues with a SIDR-aware Internet and with interaction with the non-SIDR-aware Internet.
 
-* Solicit input from all operators to identify issues with interaction with the non-SIDR-aware Internet, and to determine solutions to those issues.
+* Develop solutions for identified issues in SIDROPS and document them in Standards Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
 * Standardize manageability (e.g., YANG data models) and OAM solutions related to SIDR operations.
-
-* Develop operational solutions for identified issues in SIDROPS and document them in Standards Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
 
 * Document common SIDROPS terminology as Informational RFC.
 
 Given the importance of routing security to the overall stability of the Internet, the WG will not submit protocol specifications for publication to the IESG before demonstrating at least two interoperable implementations. See RFC 5657 (part of BCP 9) for guidance on what implementation reports should contain and BCP 205 for guidance on how to raise awareness of running code.
 
-BGPsec (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG..
+BGPsec (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 ## Milestones
 
