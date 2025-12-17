@@ -4,15 +4,17 @@ The global deployment of Secure Inter-Domain Routing (SIDR), consisting of Resou
 
 The SIDROPS WG is focused on deployment and operational issues, their mitigations, and experiences with SIDR technologies that are part of the global routing system, as well as the repositories and Certification Authority (CA) systems that form part of the SIDR architecture.
 
-SIDROPS develops guidelines for the operation of SIDR-aware networks and provides operational guidance on how to deploy and operate SIDR technologies in existing and new networks. It also develops protocols and protocol extensions to improve operational efficiency and security of SIDR such as Autonomous System Provider Authorization (ASPA) and reliable cache synchronization mechanisms. The WG is also responsible for the maintenance of RPKI to Router protocol.
-
 In the space of SIDROPS, the term operators will encompass a range of operational experience: CA Operators, Regional/National and Local Internet Registries, Relying Party software developers as well as the research/measurement community all have relevant operational experience or insight that SIDROPS will consider in its work.
 
 The goals of SIDROPS WG are to:
 
 * Solicit input from operators to identify operational issues with a SIDR-aware Internet and with interaction with the non-SIDR-aware Internet.
 
-* Develop solutions for identified issues in SIDROPS and document them in Standards Track, Informational, or BCP documents, depending on the type of solution (e.g., new extensions vs. operational/deployment recommendations).
+* Develop solutions for identified issues. This also includes:
+  
+    + Developing guidelines for the operation of SIDR-aware networks and providing operational guidance on how to deploy and operate SIDR technologies in existing and new networks (Informational/BCP).
+      
+    + Standardizing protocols and protocol extensions to improve operational efficiency and security of SIDR such as Autonomous System Provider Authorization (ASPA) and reliable cache synchronization mechanisms.
 
 * Standardize manageability (e.g., YANG data models) and OAM solutions related to SIDR operations.
 
