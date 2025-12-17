@@ -20,7 +20,7 @@ The goals of SIDROPS WG are to:
 
 Given the importance of routing security to the overall stability of the Internet, the WG will not submit protocol specifications for publication to the IESG before demonstrating at least two interoperable implementations. See RFC 5657 (part of BCP 9) for guidance on what implementation reports should contain and BCP 205 for guidance on how to raise awareness of running code.
 
-BGPsec (RFC 8205) maintenance and extensions belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
+BGPsec (RFC 8205) maintenance, extensions, and updates belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
 ## Milestones
 
