@@ -4,11 +4,11 @@ The global deployment of Secure Inter-Domain Routing (SIDR), consisting of Resou
 
 The SIDROPS WG is focused on deployment and operational issues, their mitigations, and experiences with SIDR technologies that are part of the global routing system, as well as the repositories and Certification Authority (CA) systems that form part of the SIDR architecture.
 
-In the space of SIDROPS, the term operators will encompass a range of operational experience: CA Operators, Regional/National and Local Internet Registries, Relying Party software developers as well as the research/measurement community all have relevant operational experience or insight that SIDROPS will consider in its work.
+SIDROPS will solicit input from a variety of contributors, including but not limited to, CA Operators, Regional/National and Local Internet Registries, Relying Party software developers, researchers, participants of the measurements community, and network operators.
 
 The goals of SIDROPS WG are to:
 
-* Solicit input from operators to identify operational issues with a SIDR-aware Internet and with interaction with the non-SIDR-aware Internet.
+* Identify operational issues with a SIDR-aware Internet and with interaction with the non-SIDR-aware Internet.
 
 * Develop solutions for identified issues. This also includes:
   
