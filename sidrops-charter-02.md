@@ -24,6 +24,8 @@ Given the importance of routing security to the overall stability of the Interne
 
 BGPsec (RFC 8205) maintenance, extensions, and updates belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
+Gaps in other protocols which impact SIDR operation is the responsibility of the WGs that owns these protocols.
+
 ## Milestones
 
 | Date | Milestone |
