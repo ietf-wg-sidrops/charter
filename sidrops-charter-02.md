@@ -6,7 +6,9 @@ The SIDROPS WG is focused on deployment and operational issues, their mitigation
 
 SIDROPS will solicit input from a variety of contributors, including but not limited to, CA Operators, Regional/National and Local Internet Registries, Relying Party software developers, researchers, participants of the measurements community, and network operators.
 
-The goals of SIDROPS WG are to:
+The goals of SIDROPS WG are:
+
+* Maintain RPKI technology stack. 
 
 * Identify operational issues with a SIDR-aware Internet and with interaction with the non-SIDR-aware Internet.
 
