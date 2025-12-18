@@ -2,7 +2,7 @@
 
 The global deployment of Secure Inter-Domain Routing (SIDR), consisting of Resource Public Key Infrastructure (RPKI), Origin Validation of BGP announcements, and BGPsec, is still underway, creating an Internet Routing System consisting of SIDR-aware and non-SIDR-aware networks. This deployment must be properly handled to avoid the division of the Internet into separate networks. SIDR Operations Working Group (SIDROPS WG) is responsible for continuing the development of SIDR technology, encouraging its deployment, while ensuring as secure of a global routing system as possible, during the transition. Specifically, SIDROPS is responsible for the maintenance of all SIDR components, except BGPsec.
 
-The SIDROPS WG is focused on deployment and operational issues, their mitigations, and experiences with SIDR technologies that are part of the global routing system, as well as the repositories and Certification Authority (CA) systems that form part of the SIDR architecture.
+The SIDROPS WG is focused on deployment and operational issues, their mitigations, and experiences with SIDR technologies that are part of the global routing system, as well as the RPKI repositories and RPKI Certification Authority (CA) systems that form part of the SIDR architecture.
 
 SIDROPS will solicit input from a variety of contributors, including but not limited to, CA Operators, Regional/National and Local Internet Registries, Relying Party software developers, researchers, participants of the measurements community, and network operators.
 
@@ -26,7 +26,7 @@ Given the importance of routing security to the overall stability of the Interne
 
 BGPsec (RFC 8205) maintenance, extensions, and updates belong to IDR WG. SIDROPS may provide input to IDR, as needed, and will cooperate with that WG in reviewing solutions to BGPsec operational and deployment problems. Documenting the operational aspects of securing the Internet routing system other than SIDR belongs to GROW WG.
 
-Gaps in other protocols which impact SIDR operation is the responsibility of the WGs that own these protocols.
+Gaps in other protocols which impact SIDR operation are the responsibility of the WGs that own these protocols.
 
 ## Milestones
 
